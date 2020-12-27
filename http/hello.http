@@ -1,3 +1,6 @@
 
 ###
-GET http://localhost:1323
+GET http://localhost:1323/ws
+
+###
+GET http://localhost:1323/api/v1/nada
